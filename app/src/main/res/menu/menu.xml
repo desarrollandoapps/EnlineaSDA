@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/ver_pedidos"
+        android:icon="@drawable/ic_pedidos_black_24dp"
+        android:title="Pedidos" />
+
+    <item
+        android:id="@+id/nuevo_pedido"
+        android:icon="@drawable/ic_nuevo_pedido"
+        android:title="Realizar pedido" />
+
+    <!--<item
+        android:id="@+id/auditoria"
+        android:icon="@drawable/ic_auditoria"
+        android:title="Auditoría" />-->
+
+    <item
+        android:id="@+id/cocina"
+        android:icon="@drawable/ic_cocina"
+        android:title="Cocina" />
+
+    <item
+        android:id="@+id/registros"
+        android:icon="@drawable/ic_registros"
+        android:title="Registros" />
+
+</menu>
